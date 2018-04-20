@@ -7,3 +7,4 @@ log/
 spring.log
 accs-boot/log/
 *.log
+.mvn/
